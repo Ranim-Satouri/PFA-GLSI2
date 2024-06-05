@@ -1,0 +1,47 @@
+problematique : 
+Ce problème ne se limite pas à ce niveau-là. Dans certains cas, les étudiants sont obligés d'abandonner leur parcours 
+académique à cause de leur mauvaise situation financière et de la pression exercée sur leurs familles pour qu'ils 
+puissent acheter les fournitures nécessaires telles qu'un PC portable ou du matériel de recherche, etc. Même pour le 
+logement, pour ceux qui sont loin, ils en arrivent au point de ne plus avoir d’argent pour leurs besoins alimentaires.
+À cause de leurs engagements, il est très difficile de trouver un travail à temps partiel qui s'adapte à leurs
+horaires d'étude. Cela prend beaucoup de temps et d'effort de recherche et la plupart du temps, ils se trouvent
+obligés parfois d'arrêter leurs études completement.
+
+Objectifs:
+1. Générer un revenu supplémentaire
+2. Offrir une diversité  d'emplois flexibles et adaptés
+aux horaires d’ etudiant
+3.Offrir des tâches simples et faciles à apprendre qui ne nécessitent pas une expérience ou un certain niveau ou diplôme.
+(Par exemple, serveur dans un restaurant, caissier dans un magasin, livreur pour une boutique, et des tâches peuvent 
+être liées à leur domaine d'étude mais pas trop compliquées, comme l'écriture d'un CV ou la gestion d'une page
+ Instagram pour une boutique de vêtements, etc.)
+
+architecture :
+Admin : Responsable de la gestion des utilisateurs et des offres de travail à temps partiel.
+
+Utilisateurs : Étudiants ou non, ayant le droit de :
+-Consulter les offres de travail à temps partiel.
+-Gérer leurs offres d'emploi (ajout, modification et suppression).
+-Gérer leur profil 
+
+Resultas attendus : 
+-Étudiant indépendant et stable financièrement.
+-Gain de temps dans la recherche d'un travail qui s'adapte à l'étudiant (opération rapide et facilement accessible à
+tout moment sans beaucoup d'efforts, et surtout une diversité des offres qui rend le choix plus aisé et mieux adapté,
+sans se retrouver obligé de se contenter de ce qui existe).
+-Effet positif sur les employeurs qui rend indirectement leur processus de recherche d'un profil capable de fournir 
+un tel service qu'ils proposent plus facile et surtout plus rapide, ce qui les rend très motivés à publier encore 
+plus d'offres de services, et donc rend les offres et le choix de l'employé plus divers, entraînant par la suite 
+une satisfaction très élevée.(exemple baba : Je vous donne l'exemple de mon père : il est toujours confronté à des 
+difficultés pour trouver quelqu'un pour s'occuper de son magasin pendant une période de temps à cause des imprévus et 
+des engagements, comme un voyage de vacances ou un événement imprévu. Cela l'oblige la plupart du temps à fermer le
+ projet, ce qui est considéré comme une perte pour le projet ou à reporter son engagement jusqu'à ce qu'il trouve 
+quelqu'un pour s'occuper de lui.)
+
+Innovation :
+-Impact economique grace (au consommation des etudiants )
+-vie proffesionelle (experience dans le fait d'etre en contact avec des employeurs et meme la gestion de temps entre education et travail
+et surtout gestion dargent qui va etre plus efficace )
+- la diminution de nombre detudiants qui se trouvent oblige d'abondonne leurs parcours educatif ou meme etre oblige de sabsonter  a cause 
+de ne pas trouver un post qui sadapte a leurs horaire puissque leurs choix est limiter 
+

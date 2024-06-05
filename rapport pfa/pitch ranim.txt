@@ -1,0 +1,67 @@
+presenation
+
+bonjour a tous, je vais commencer par  presenter notre equipe de travail  rihem amri , ranim abdelatif , nour hasnaoui et ranim satouri
+aujourdhui on vas vous presenter l'idée de  notre application web intitulé EtudJob
+une plateforme en ligne dédiée aux étudiants, offrant des opportunités de travail à temps partiel pour générer un 
+revenu d'appoint.
+
+
+Partant de cette problématique, nos objectifs deviennent clairs et directs
+pour les Étudiants:
+1. Générer un revenu supplémentaire
+2. Offrir une diversité  d'emplois flexibles et adaptés aux horaires d’étudiant
+3.Offrir des tâches simples et faciles à apprendre qui ne nécessitent pas une expérience ou un certain niveau ou diplôme.
+(Par exemple, serveur dans un restaurant, caissier dans un magasin, vendeuse pour une boutique, et meme des tâches 
+liées à leurs domaine d'étude mais pas trop compliquées, comme l'écriture d'un CV ou assurer des cours de revision pour d'autre etudiant
+ etc . chaq'un a le choix de choisir l'offre qui lui semble fesable)
+
+Comme notre plateforme représente une solution mutuellement bénéfique  alors nos 
+Objectifs pour les Employeurs : c'est de les
+Proposer une plateforme leur permettant de
+trouver des candidats pour des postes à temps
+partiel.
+ 
+
+consernant nos Resultas attendus : on souhaite avoir des 
+-Étudiant indépendant et stable financièrement. et aussi une 
+-(opération de recherche d'emploi rapide , facile et accessible à tout moment sans beaucoup d'efforts, et surtout la diversité des offres 
+rend le choix plus aisé et mieux adapté, sans se retrouver obligé de se contenter de ce qui existe).
+-Impact positif sur les employeurs, les incitant à proposer davantage d'offres d'emploi variées et à satisfaire leurs
+besoins en recrutement
+
+
+
+conclusion
+En résumé, notre plateforme vise à résoudre le problème crucial des
+étudiants cherchant des opportunités de travail à temps partiel.
+Avec une approche axée sur l'utilisateur, nous espérons améliorer la vie des
+étudiants en facilitant l'accès à des emplois flexibles. Nous sommes
+enthousiastes à l'idée de contribuer positivement à la vie étudiante et au
+développement professionnel de nos pairs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Effet positif sur les employeurs qui rend indirectement leur processus de recherche d'un profil capable de fournir 
+un tel service qu'ils proposent plus facile et surtout plus rapide, ce qui les rend très motivés à publier encore 
+plus d'offres de services, et donc rend les offres et le choix de l'employé plus divers, entraînant par la suite 
+une satisfaction très élevée.
+
+(exemple baba : Je vous donne l'exemple de mon père : il est toujours confronté à des 
+difficultés pour trouver quelqu'un pour s'occuper de son magasin pendant une période de temps à cause des imprévus et 
+des engagements, comme un voyage de vacances ou un événement imprévu. Cela l'oblige la plupart du temps à fermer le
+ projet, ce qui est considéré comme une perte pour le projet ou à reporter son engagement jusqu'à ce qu'il trouve 
+quelqu'un pour s'occuper de lui.)
+
+
+conclusion
